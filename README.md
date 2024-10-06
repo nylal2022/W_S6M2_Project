@@ -26,7 +26,7 @@ Look through the code before you start. There are a lot of files. Not all of the
 
 ---
 
-Your project should end up looking like [this](./frontend/design-files/insta-clone.gif)
+Your project should end up looking like [this](./frontend/design-files/insta-clone.gif).
 
 ## Submission Format
 
